@@ -6,7 +6,7 @@ Las caracteristicas mediante las cuales se realizo el programa, fueron desarroll
 
 Esta aplicación consiste en un Conversor de Moneda, Conversor de Temperatura y Conversor de Masa (estos dos ultimos siendo los extras).
 
-![moneda-de-dolar](https://user-images.githubusercontent.com/78713566/225103338-b217ae2d-6ed3-464d-9d26-b3efdf2474b5.svg) ----- ![temperatura-alta](https://user-images.githubusercontent.com/78713566/225104295-2fd1ada7-c8c0-4898-a465-dee2aa7de5d3.svg) ------ ![kilogramos](https://user-images.githubusercontent.com/78713566/225104731-c76dda5b-5f96-4c5a-be92-998f6c5fc8e0.svg)
+![moneda-de-dolar](https://user-images.githubusercontent.com/78713566/225103338-b217ae2d-6ed3-464d-9d26-b3efdf2474b5.svg)  ![temperatura-alta](https://user-images.githubusercontent.com/78713566/225104295-2fd1ada7-c8c0-4898-a465-dee2aa7de5d3.svg)  ![kilogramos](https://user-images.githubusercontent.com/78713566/225104731-c76dda5b-5f96-4c5a-be92-998f6c5fc8e0.svg)
 
 ## Requisitos conversor de moneda:
 - No debe permitir ingresar letras con acentos ni caracteres especiales.
